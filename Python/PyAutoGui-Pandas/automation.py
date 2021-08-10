@@ -15,7 +15,7 @@ pyautogui.write("mail.google.com")
 pyautogui.press('enter')
 pyautogui.sleep(2)
 pyautogui.click(x=71, y=174)
-pyautogui.write('lucaspierrealmeida@gmail.com')
+pyautogui.write('SEUEMAILAQUI')#coloque o email de redirecionamento que queira enviar
 pyautogui.press('tab')
 pyautogui.press('tab')
 assunto = "Relatório mensal de vendas"
